@@ -44,9 +44,9 @@ kel9-tabungan-siswa/
 │   ├── 📁 js/
 │   │   └── 📄 script.js        # JavaScript functions
 │   └── 📁 images/              # Gambar dan icon
-├── 📁 api/                     # API endpoints (opsional)
-│   ├── 📄 get_transactions.php
-│   └── 📄 get_total_saldo.php
+
+│   
+│  
 ├── 📄 blueprint.md             # Dokumen teknis
 ├── 📄 README.md                # Dokumentasi ini
 └── 📄 .env                     # Konfigurasi environment (jika perlu)
